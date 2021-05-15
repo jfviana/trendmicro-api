@@ -1,4 +1,7 @@
-﻿function create_checksum(
+﻿#Author: Julio Viana
+#Created: 2021-05-16
+
+function create_checksum(
     $http_method = $null,
     $raw_url = $null,
     $headers = $null,
