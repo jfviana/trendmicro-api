@@ -1,5 +1,9 @@
-﻿#Author: Julio Viana
-#Created: 2021-05-16
+﻿#Author: Tom Ryan
+#Created: 2021-02-19
+
+#Modified by: Julio Viana
+#Last change: 2021-05-16
+
 
 function create_checksum(
     $http_method = $null,
