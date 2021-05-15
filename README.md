@@ -1,2 +1,2 @@
 # trendmicro-api
-Trend Micro API
+This repository aims at sharing some Powershell scripts using Trend Micro API
